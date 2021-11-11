@@ -1,7 +1,15 @@
-{ 
-   "editor.formatOnSave": true,  
-    "vetur.validation.template": true,
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    }
+{
+  "editor.formatOnSave": true,
+  "vetur.validation.template": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "search.exclude": {
+    "**/__pycache__": true,
+    "**/dist": true
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.settings": true,
+  }
 }
