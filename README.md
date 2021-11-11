@@ -1,4 +1,4 @@
-# lelegis-analytics
+# Django 3 - Vue 3 - Boilerplate
 
 ## Project setup
 
@@ -33,3 +33,5 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+See [Extensions VsCode](https://github.com/LeandroJatai/django3-vue3-boilerplate/blob/master/public/extensions_for_vscode.png).
