@@ -1,0 +1,349 @@
+{
+  "status": "done",
+  "assets": {
+    "manifest.json": {
+      "name": "manifest.json",
+      "path": "manifest.json",
+      "publicPath": "/static/manifest.json"
+    },
+    "service-worker.js": {
+      "name": "service-worker.js",
+      "path": "service-worker.js",
+      "publicPath": "/static/service-worker.js"
+    },
+    "service-worker.js.map": {
+      "name": "service-worker.js.map",
+      "path": "service-worker.js.map",
+      "publicPath": "/static/service-worker.js.map"
+    },
+    "fonts/fa-brands-400.b2970adc..eot": {
+      "name": "fonts/fa-brands-400.b2970adc..eot",
+      "path": "fonts/fa-brands-400.b2970adc..eot",
+      "publicPath": "/static/fonts/fa-brands-400.b2970adc..eot"
+    },
+    "fonts/fa-brands-400.7edea186..woff2": {
+      "name": "fonts/fa-brands-400.7edea186..woff2",
+      "path": "fonts/fa-brands-400.7edea186..woff2",
+      "publicPath": "/static/fonts/fa-brands-400.7edea186..woff2"
+    },
+    "fonts/fa-brands-400.0e53fe4f..woff": {
+      "name": "fonts/fa-brands-400.0e53fe4f..woff",
+      "path": "fonts/fa-brands-400.0e53fe4f..woff",
+      "publicPath": "/static/fonts/fa-brands-400.0e53fe4f..woff"
+    },
+    "fonts/fa-brands-400.9c02eaf6..ttf": {
+      "name": "fonts/fa-brands-400.9c02eaf6..ttf",
+      "path": "fonts/fa-brands-400.9c02eaf6..ttf",
+      "publicPath": "/static/fonts/fa-brands-400.9c02eaf6..ttf"
+    },
+    "img/fa-brands-400.a76d53bf..svg": {
+      "name": "img/fa-brands-400.a76d53bf..svg",
+      "path": "img/fa-brands-400.a76d53bf..svg",
+      "publicPath": "/static/img/fa-brands-400.a76d53bf..svg"
+    },
+    "fonts/fa-regular-400.a0140e7c..eot": {
+      "name": "fonts/fa-regular-400.a0140e7c..eot",
+      "path": "fonts/fa-regular-400.a0140e7c..eot",
+      "publicPath": "/static/fonts/fa-regular-400.a0140e7c..eot"
+    },
+    "fonts/fa-regular-400.e2b3a9dc..woff2": {
+      "name": "fonts/fa-regular-400.e2b3a9dc..woff2",
+      "path": "fonts/fa-regular-400.e2b3a9dc..woff2",
+      "publicPath": "/static/fonts/fa-regular-400.e2b3a9dc..woff2"
+    },
+    "fonts/fa-regular-400.04dd5282..woff": {
+      "name": "fonts/fa-regular-400.04dd5282..woff",
+      "path": "fonts/fa-regular-400.04dd5282..woff",
+      "publicPath": "/static/fonts/fa-regular-400.04dd5282..woff"
+    },
+    "fonts/fa-regular-400.7346017c..ttf": {
+      "name": "fonts/fa-regular-400.7346017c..ttf",
+      "path": "fonts/fa-regular-400.7346017c..ttf",
+      "publicPath": "/static/fonts/fa-regular-400.7346017c..ttf"
+    },
+    "img/fa-regular-400.ee37fbcc..svg": {
+      "name": "img/fa-regular-400.ee37fbcc..svg",
+      "path": "img/fa-regular-400.ee37fbcc..svg",
+      "publicPath": "/static/img/fa-regular-400.ee37fbcc..svg"
+    },
+    "fonts/fa-solid-900.974801a4..eot": {
+      "name": "fonts/fa-solid-900.974801a4..eot",
+      "path": "fonts/fa-solid-900.974801a4..eot",
+      "publicPath": "/static/fonts/fa-solid-900.974801a4..eot"
+    },
+    "fonts/fa-solid-900.620019ed..woff2": {
+      "name": "fonts/fa-solid-900.620019ed..woff2",
+      "path": "fonts/fa-solid-900.620019ed..woff2",
+      "publicPath": "/static/fonts/fa-solid-900.620019ed..woff2"
+    },
+    "fonts/fa-solid-900.e67670b0..woff": {
+      "name": "fonts/fa-solid-900.e67670b0..woff",
+      "path": "fonts/fa-solid-900.e67670b0..woff",
+      "publicPath": "/static/fonts/fa-solid-900.e67670b0..woff"
+    },
+    "fonts/fa-solid-900.d5b0a356..ttf": {
+      "name": "fonts/fa-solid-900.d5b0a356..ttf",
+      "path": "fonts/fa-solid-900.d5b0a356..ttf",
+      "publicPath": "/static/fonts/fa-solid-900.d5b0a356..ttf"
+    },
+    "img/fa-solid-900.cd7322bf..svg": {
+      "name": "img/fa-solid-900.cd7322bf..svg",
+      "path": "img/fa-solid-900.cd7322bf..svg",
+      "publicPath": "/static/img/fa-solid-900.cd7322bf..svg"
+    },
+    "css/app.05661a42.css": {
+      "name": "css/app.05661a42.css",
+      "path": "css/app.05661a42.css",
+      "publicPath": "/static/css/app.05661a42.css"
+    },
+    "js/app.0d14915e.js": {
+      "name": "js/app.0d14915e.js",
+      "path": "js/app.0d14915e.js",
+      "publicPath": "/static/js/app.0d14915e.js"
+    },
+    "js/about.1783ff23.js": {
+      "name": "js/about.1783ff23.js",
+      "path": "js/about.1783ff23.js",
+      "publicPath": "/static/js/about.1783ff23.js"
+    },
+    "css/chunk-vendors.dfb8dfa5.css": {
+      "name": "css/chunk-vendors.dfb8dfa5.css",
+      "path": "css/chunk-vendors.dfb8dfa5.css",
+      "publicPath": "/static/css/chunk-vendors.dfb8dfa5.css"
+    },
+    "js/chunk-vendors.d6d1e3dd.js": {
+      "name": "js/chunk-vendors.d6d1e3dd.js",
+      "path": "js/chunk-vendors.d6d1e3dd.js",
+      "publicPath": "/static/js/chunk-vendors.d6d1e3dd.js"
+    },
+    "extensions_for_vscode.png": {
+      "name": "extensions_for_vscode.png",
+      "path": "extensions_for_vscode.png",
+      "publicPath": "/static/extensions_for_vscode.png"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "favicon.ico",
+      "publicPath": "/static/favicon.ico"
+    },
+    "robots.txt": {
+      "name": "robots.txt",
+      "path": "robots.txt",
+      "publicPath": "/static/robots.txt"
+    },
+    "img/icons/android-chrome-192x192.png": {
+      "name": "img/icons/android-chrome-192x192.png",
+      "path": "img/icons/android-chrome-192x192.png",
+      "publicPath": "/static/img/icons/android-chrome-192x192.png"
+    },
+    "img/icons/android-chrome-512x512.png": {
+      "name": "img/icons/android-chrome-512x512.png",
+      "path": "img/icons/android-chrome-512x512.png",
+      "publicPath": "/static/img/icons/android-chrome-512x512.png"
+    },
+    "img/icons/android-chrome-maskable-192x192.png": {
+      "name": "img/icons/android-chrome-maskable-192x192.png",
+      "path": "img/icons/android-chrome-maskable-192x192.png",
+      "publicPath": "/static/img/icons/android-chrome-maskable-192x192.png"
+    },
+    "img/icons/android-chrome-maskable-512x512.png": {
+      "name": "img/icons/android-chrome-maskable-512x512.png",
+      "path": "img/icons/android-chrome-maskable-512x512.png",
+      "publicPath": "/static/img/icons/android-chrome-maskable-512x512.png"
+    },
+    "img/icons/apple-touch-icon-120x120.png": {
+      "name": "img/icons/apple-touch-icon-120x120.png",
+      "path": "img/icons/apple-touch-icon-120x120.png",
+      "publicPath": "/static/img/icons/apple-touch-icon-120x120.png"
+    },
+    "img/icons/apple-touch-icon-152x152.png": {
+      "name": "img/icons/apple-touch-icon-152x152.png",
+      "path": "img/icons/apple-touch-icon-152x152.png",
+      "publicPath": "/static/img/icons/apple-touch-icon-152x152.png"
+    },
+    "img/icons/apple-touch-icon-180x180.png": {
+      "name": "img/icons/apple-touch-icon-180x180.png",
+      "path": "img/icons/apple-touch-icon-180x180.png",
+      "publicPath": "/static/img/icons/apple-touch-icon-180x180.png"
+    },
+    "img/icons/apple-touch-icon-60x60.png": {
+      "name": "img/icons/apple-touch-icon-60x60.png",
+      "path": "img/icons/apple-touch-icon-60x60.png",
+      "publicPath": "/static/img/icons/apple-touch-icon-60x60.png"
+    },
+    "img/icons/apple-touch-icon-76x76.png": {
+      "name": "img/icons/apple-touch-icon-76x76.png",
+      "path": "img/icons/apple-touch-icon-76x76.png",
+      "publicPath": "/static/img/icons/apple-touch-icon-76x76.png"
+    },
+    "img/icons/apple-touch-icon.png": {
+      "name": "img/icons/apple-touch-icon.png",
+      "path": "img/icons/apple-touch-icon.png",
+      "publicPath": "/static/img/icons/apple-touch-icon.png"
+    },
+    "img/icons/favicon-16x16.png": {
+      "name": "img/icons/favicon-16x16.png",
+      "path": "img/icons/favicon-16x16.png",
+      "publicPath": "/static/img/icons/favicon-16x16.png"
+    },
+    "img/icons/favicon-32x32.png": {
+      "name": "img/icons/favicon-32x32.png",
+      "path": "img/icons/favicon-32x32.png",
+      "publicPath": "/static/img/icons/favicon-32x32.png"
+    },
+    "img/icons/msapplication-icon-144x144.png": {
+      "name": "img/icons/msapplication-icon-144x144.png",
+      "path": "img/icons/msapplication-icon-144x144.png",
+      "publicPath": "/static/img/icons/msapplication-icon-144x144.png"
+    },
+    "img/icons/mstile-150x150.png": {
+      "name": "img/icons/mstile-150x150.png",
+      "path": "img/icons/mstile-150x150.png",
+      "publicPath": "/static/img/icons/mstile-150x150.png"
+    },
+    "img/icons/safari-pinned-tab.svg": {
+      "name": "img/icons/safari-pinned-tab.svg",
+      "path": "img/icons/safari-pinned-tab.svg",
+      "publicPath": "/static/img/icons/safari-pinned-tab.svg"
+    },
+    "js/app.0d14915e.js.map": {
+      "name": "js/app.0d14915e.js.map",
+      "path": "js/app.0d14915e.js.map",
+      "publicPath": "/static/js/app.0d14915e.js.map"
+    },
+    "js/about.1783ff23.js.map": {
+      "name": "js/about.1783ff23.js.map",
+      "path": "js/about.1783ff23.js.map",
+      "publicPath": "/static/js/about.1783ff23.js.map"
+    },
+    "js/chunk-vendors.d6d1e3dd.js.map": {
+      "name": "js/chunk-vendors.d6d1e3dd.js.map",
+      "path": "js/chunk-vendors.d6d1e3dd.js.map",
+      "publicPath": "/static/js/chunk-vendors.d6d1e3dd.js.map"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "index.html",
+      "publicPath": "/static/index.html"
+    },
+    "manifest.json.gz": {
+      "name": "manifest.json.gz",
+      "path": "manifest.json.gz",
+      "publicPath": "/static/manifest.json.gz"
+    },
+    "fonts/fa-regular-400.a0140e7c..eot.gz": {
+      "name": "fonts/fa-regular-400.a0140e7c..eot.gz",
+      "path": "fonts/fa-regular-400.a0140e7c..eot.gz",
+      "publicPath": "/static/fonts/fa-regular-400.a0140e7c..eot.gz"
+    },
+    "fonts/fa-regular-400.7346017c..ttf.gz": {
+      "name": "fonts/fa-regular-400.7346017c..ttf.gz",
+      "path": "fonts/fa-regular-400.7346017c..ttf.gz",
+      "publicPath": "/static/fonts/fa-regular-400.7346017c..ttf.gz"
+    },
+    "js/app.0d14915e.js.gz": {
+      "name": "js/app.0d14915e.js.gz",
+      "path": "js/app.0d14915e.js.gz",
+      "publicPath": "/static/js/app.0d14915e.js.gz"
+    },
+    "js/about.1783ff23.js.gz": {
+      "name": "js/about.1783ff23.js.gz",
+      "path": "js/about.1783ff23.js.gz",
+      "publicPath": "/static/js/about.1783ff23.js.gz"
+    },
+    "favicon.ico.gz": {
+      "name": "favicon.ico.gz",
+      "path": "favicon.ico.gz",
+      "publicPath": "/static/favicon.ico.gz"
+    },
+    "css/chunk-vendors.dfb8dfa5.css.gz": {
+      "name": "css/chunk-vendors.dfb8dfa5.css.gz",
+      "path": "css/chunk-vendors.dfb8dfa5.css.gz",
+      "publicPath": "/static/css/chunk-vendors.dfb8dfa5.css.gz"
+    },
+    "js/about.1783ff23.js.map.gz": {
+      "name": "js/about.1783ff23.js.map.gz",
+      "path": "js/about.1783ff23.js.map.gz",
+      "publicPath": "/static/js/about.1783ff23.js.map.gz"
+    },
+    "index.html.gz": {
+      "name": "index.html.gz",
+      "path": "index.html.gz",
+      "publicPath": "/static/index.html.gz"
+    },
+    "js/app.0d14915e.js.map.gz": {
+      "name": "js/app.0d14915e.js.map.gz",
+      "path": "js/app.0d14915e.js.map.gz",
+      "publicPath": "/static/js/app.0d14915e.js.map.gz"
+    },
+    "service-worker.js.gz": {
+      "name": "service-worker.js.gz",
+      "path": "service-worker.js.gz",
+      "publicPath": "/static/service-worker.js.gz"
+    },
+    "css/app.05661a42.css.gz": {
+      "name": "css/app.05661a42.css.gz",
+      "path": "css/app.05661a42.css.gz",
+      "publicPath": "/static/css/app.05661a42.css.gz"
+    },
+    "img/fa-regular-400.ee37fbcc..svg.gz": {
+      "name": "img/fa-regular-400.ee37fbcc..svg.gz",
+      "path": "img/fa-regular-400.ee37fbcc..svg.gz",
+      "publicPath": "/static/img/fa-regular-400.ee37fbcc..svg.gz"
+    },
+    "fonts/fa-brands-400.b2970adc..eot.gz": {
+      "name": "fonts/fa-brands-400.b2970adc..eot.gz",
+      "path": "fonts/fa-brands-400.b2970adc..eot.gz",
+      "publicPath": "/static/fonts/fa-brands-400.b2970adc..eot.gz"
+    },
+    "fonts/fa-brands-400.9c02eaf6..ttf.gz": {
+      "name": "fonts/fa-brands-400.9c02eaf6..ttf.gz",
+      "path": "fonts/fa-brands-400.9c02eaf6..ttf.gz",
+      "publicPath": "/static/fonts/fa-brands-400.9c02eaf6..ttf.gz"
+    },
+    "fonts/fa-solid-900.974801a4..eot.gz": {
+      "name": "fonts/fa-solid-900.974801a4..eot.gz",
+      "path": "fonts/fa-solid-900.974801a4..eot.gz",
+      "publicPath": "/static/fonts/fa-solid-900.974801a4..eot.gz"
+    },
+    "fonts/fa-solid-900.d5b0a356..ttf.gz": {
+      "name": "fonts/fa-solid-900.d5b0a356..ttf.gz",
+      "path": "fonts/fa-solid-900.d5b0a356..ttf.gz",
+      "publicPath": "/static/fonts/fa-solid-900.d5b0a356..ttf.gz"
+    },
+    "js/chunk-vendors.d6d1e3dd.js.gz": {
+      "name": "js/chunk-vendors.d6d1e3dd.js.gz",
+      "path": "js/chunk-vendors.d6d1e3dd.js.gz",
+      "publicPath": "/static/js/chunk-vendors.d6d1e3dd.js.gz"
+    },
+    "img/fa-solid-900.cd7322bf..svg.gz": {
+      "name": "img/fa-solid-900.cd7322bf..svg.gz",
+      "path": "img/fa-solid-900.cd7322bf..svg.gz",
+      "publicPath": "/static/img/fa-solid-900.cd7322bf..svg.gz"
+    },
+    "service-worker.js.map.gz": {
+      "name": "service-worker.js.map.gz",
+      "path": "service-worker.js.map.gz",
+      "publicPath": "/static/service-worker.js.map.gz"
+    },
+    "img/fa-brands-400.a76d53bf..svg.gz": {
+      "name": "img/fa-brands-400.a76d53bf..svg.gz",
+      "path": "img/fa-brands-400.a76d53bf..svg.gz",
+      "publicPath": "/static/img/fa-brands-400.a76d53bf..svg.gz"
+    },
+    "js/chunk-vendors.d6d1e3dd.js.map.gz": {
+      "name": "js/chunk-vendors.d6d1e3dd.js.map.gz",
+      "path": "js/chunk-vendors.d6d1e3dd.js.map.gz",
+      "publicPath": "/static/js/chunk-vendors.d6d1e3dd.js.map.gz"
+    }
+  },
+  "chunks": {
+    "app": [
+      "css/chunk-vendors.dfb8dfa5.css",
+      "js/chunk-vendors.d6d1e3dd.js",
+      "css/app.05661a42.css",
+      "js/app.0d14915e.js"
+    ]
+  },
+  "publicPath": "/static/"
+}
